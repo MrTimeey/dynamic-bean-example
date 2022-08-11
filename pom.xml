@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>dynamic</artifactId>
+	<artifactId>dynamic-bean-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dynamic</name>
-	<description>Demo project for Dynamic bean replacement</description>
+	<name>dynamic-bean-example</name>
+	<description>Demo project for dynamic bean replacement</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
